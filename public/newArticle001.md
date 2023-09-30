@@ -1,7 +1,7 @@
 ---
 title: 【XcodeCloud】XcodeCloudで実行した時はBuildPhasesのRunScriptを実行したくない
 tags:
-  - ''
+  - 'Swift', 'iOS', 'Xcode', "XcodeCloud"
 private: false
 updated_at: ''
 id: null
