@@ -1,14 +1,14 @@
 ---
 title: 【XcodeCloud】XcodeCloudで実行した時はBuildPhasesのRunScriptを実行したくない
 tags:
-  - Swift
-  - iOS
   - Xcode
+  - iOS
+  - Swift
   - XcodeCloud
 private: false
-updated_at: ''
-id: null
-organization_url_name: https://qiita.com/organizations/avis-inc
+updated_at: '2023-09-30T15:27:04+09:00'
+id: 3bdaaee1aefc3b847b32
+organization_url_name: avis-inc
 slide: false
 ignorePublish: false
 ---
